@@ -1,0 +1,13 @@
+baseurl = "https://www.anmolsarma.in/"
+title = "Anmol Sarma"
+languageCode = "en-in"
+DisqusShortname = "anmolsarma"
+Copyright = "&copy 2016 Except where otherwise noted, content on this website is licensed under a <a href='https://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>."
+PygmentsCodeFences = true
+pygmentsstyle = "emacs"
+theme = "hugo-theme-casper"
+[params]
+  description = "Life, Times + Rants"
+  hideHUGOSupport = true
+  share = false
+
