@@ -5,7 +5,7 @@ date = "2016-12-13T23:10:50+05:30"
 
 +++
 
-*TL;DR: DCCP is a new transport layer which draws from both TCP and UDP. Jump straight to the [example C code]({{< relref "#example-in-c" >}}).*
+*TL;DR: DCCP is a relatively newer transport layer protocol which draws from both TCP and UDP. Jump straight to the [example C code]({{< relref "#example-in-c" >}}).*
 
 
 Background
