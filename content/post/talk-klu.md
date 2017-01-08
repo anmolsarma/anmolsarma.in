@@ -4,7 +4,7 @@ date = "2011-10-17T21:20:38.000Z"
 draft = false
 title = """Talk @ KLU"""
 slug = "talk-klu"
-tags = ['linux', 'talks']
+tags = ['tech', 'linux', 'talks']
 banner = ""
 aliases = ['/talk-klu/']
 +++
