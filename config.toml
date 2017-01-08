@@ -6,7 +6,7 @@ Copyright = "Except where otherwise noted, content on this website is licensed u
 
 PygmentsCodeFences = true
 pygmentsstyle = "emacs"
-theme = "hugo-theme-casper"
+theme = "mumo"
 Paginate = 1000
 
 [menu]
