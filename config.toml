@@ -18,7 +18,12 @@ Paginate = 1000
     [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "/"
+    url        = "/about"
+
+    [[menu.main]]
+    identifier = "renders"
+    name       = "Renders"
+    url        = "/renders"
 
     [[menu.main]]
     identifier = "talks"
