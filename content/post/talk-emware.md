@@ -2,7 +2,7 @@
 +++
 date = "2013-05-27T06:30:00.000Z"
 draft = false
-title = """Talk @ EmWare"""
+title = """Talk @ EmWare: Getting started with Linux"""
 slug = "talk-emware"
 tags = ['linux', 'talks', 'tech']
 banner = ""

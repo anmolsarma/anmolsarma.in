@@ -2,7 +2,7 @@
 +++
 date = "2011-10-17T21:20:38.000Z"
 draft = false
-title = """Talk @ KLU"""
+title = """Talk @ KLU: Linux? Say whaat?!"""
 slug = "talk-klu"
 tags = ['tech', 'linux', 'talks']
 banner = ""
@@ -16,7 +16,9 @@ Here’s a shitty picture from the talk, courtesy of Vamsi:
 
 ![KLU Linux](/images/2015/04/KLU-Linux-1.jpg)
 And here are the sildes:
-[![Linux? Say whaat?!](/images/2015/04/Linux-Say-whaat--2.png)](https://doc-0g-58-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ud2qnqgsvv8cidl694n98fi3mpgjpo8m/1428069600000/12598453977496474269/*/0B98iBt5Plb4kMWYxZmQ0NTQtMjQxMS00MzUzLWI0NzUtMGJkZTNlNWE5MGFl?e=download)
+![](/images/2015/04/Linux-Say-whaat--2.png)
+
+Edit: I lost the slides. Only this sad screenshot remains :( 
 
 
 
