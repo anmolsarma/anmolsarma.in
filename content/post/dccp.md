@@ -2,7 +2,7 @@
 title = "DCCP: The socket type you probably never heard of"
 draft = false
 date = "2016-12-13T23:10:50+05:30"
-tags = ['tech', 'linux']
+tags = ['tech', 'linux', 'protocols']
 +++
 
 *TL;DR: DCCP is a relatively newer transport layer protocol which draws from both TCP and UDP. Jump straight to the [example C code]({{< relref "#example-in-c" >}}).*

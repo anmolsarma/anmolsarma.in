@@ -4,7 +4,7 @@ date = "2013-01-12T19:06:05.000Z"
 draft = false
 title = """Das Blinkenlights on the MSP430 Launchpad with Linux"""
 slug = "msp430-launchpad-linux"
-tags = ['development board', 'launchpad', 'linux', 'msp430', 'tech']
+tags = ['linux', 'embedded', 'tech']
 banner = ""
 aliases = ['/msp430-launchpad-linux/']
 +++
