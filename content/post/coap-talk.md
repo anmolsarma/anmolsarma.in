@@ -1,5 +1,5 @@
 ---
-title: "Talk @ RFC's We Love"
+title: "Talk @ RFC's We Love: CoAPing with the Internet of Things"
 date: 2017-10-14T11:56:27+05:30
 tags: ['talks', 'tech']
 ---
