@@ -14,8 +14,7 @@ youtube = "https://www.youtube.com/embed/RSHFzZmQPj0"
 A critical look at Khurshed Batliwala’s talk, “Technology of Spirituality” delivered at Ruia College, Mumbai.
 
  
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/RSHFzZmQPj0" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/RSHFzZmQPj0" frameborder="0" allowfullscreen></iframe></center>
 
 Mr. Batliwala makes a number of extraordinary claims about the state of ancient Indian science and technology. Most of them however, turn out to be exaggerations, misinterpretations or outright fabrications. He then attributes all scientific progress to ‘spirituality’.
 

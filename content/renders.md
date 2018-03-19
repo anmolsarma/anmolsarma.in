@@ -4,6 +4,7 @@ draft = false
 staticpage = true
 +++
 
+<center>
 [![](/renders/Weirwood_tb.jpg)](/renders/Weirwood.jpg)
 
 [![](/renders/Path_tb.jpg)](/renders/Path.jpg)
@@ -17,7 +18,7 @@ staticpage = true
 [![](/renders/Splash_tb.jpg)](/renders/Splash.jpg)
 
 [![](/renders/Alien_tb.jpg)](/renders/Alien.jpg)
-
+</center>
 
 
 
