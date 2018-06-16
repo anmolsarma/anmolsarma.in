@@ -60,7 +60,7 @@ Described as The Thinking Man's Da Vinci Code, it's a satirical exposition of pe
 
 ### The Raj at War by Yasmin Khan
 
-Subtitled A People’s History of India’s Second World War, Yasmin Khan does an excellent job collating the experiences of ordinary Indians caught up in the war. There are accounts of not just soldiers but also lascars, nurses, labourers and peasants. The horrors of the Bengal famine are captured in all its gory detail. Alo shown is the birth of India's all-powerful and hopelessly apathetic babudom and the police state. Would recommend.  
+Subtitled A People’s History of India’s Second World War, Yasmin Khan does an excellent job collating the experiences of ordinary Indians caught up in the war. There are accounts of not just soldiers but also lascars, nurses, labourers and peasants. The horrors of the Bengal famine are captured in all its gory detail. Also shown is the birth of India's all-powerful and hopelessly apathetic babudom and the police state. Would recommend.
 
 ### Snow Crash by Neal Stephenson
 
