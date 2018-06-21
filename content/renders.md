@@ -5,6 +5,9 @@ staticpage = true
 +++
 
 <center>
+
+[![](/renders/RussellsTeapot_tb.jpg)](/renders/RussellsTeapot.jpg)
+
 [![](/renders/Weirwood_tb.jpg)](/renders/Weirwood.jpg)
 
 [![](/renders/Path_tb.jpg)](/renders/Path.jpg)
