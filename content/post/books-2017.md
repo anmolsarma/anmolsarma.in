@@ -2,8 +2,7 @@
 title = "Books I Read in 2017"
 date = 2018-05-09T20:28:40+05:30
 draft = false
-tags = []
-
+tags = ['books']
 +++
 
 ### The God of Small Things by Arundhati Roy
