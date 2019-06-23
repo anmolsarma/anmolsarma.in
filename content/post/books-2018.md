@@ -20,7 +20,7 @@ A gushing homage from a DOOM fanboy meant for other video game fanboys. While th
 
 ### Artemis by Andy Weir
 
-Like *The Martian* but on the moon and with added criminal intrigue. The action-packed plot is complemented by charming and extremely likeable characters. While the science is solid the writing is anything but. The mostly unambitious dialogue turns wince-inducing in places. Overall, a quick and enjoyable read.
+Like *The Martian* but on the moon and with added criminal intrigue. The action-packed plot is complemented by charming and extremely likeable characters. While the science is solid the writing is anything but. The mostly unambitious dialogue turns wince-inducing in places. Overall, a quick and enjoyable read. Would recommend.
 
 ### An Era of Darkness by Shashi Tharoor
 
@@ -36,7 +36,7 @@ Part misguided hit piece on High Frequency Trading, part hagiography of Brad Kat
 
 ### Flowers for Algernon by Daniel Keyes
 
-A heart-wrenching science fiction tale that confronts the accepted notions of intelligence, humanity, love and kindness. Written as a series of progress reports by the protagonist Charlie Gordon as he experiences the full cycle of effects of an experimental cognitive enhancement operation. The journey is captivating and ultimately heartbreaking.
+A heart-wrenching science fiction tale that confronts the accepted notions of intelligence, humanity, love and kindness. Written as a series of progress reports by the protagonist Charlie Gordon as he experiences the full cycle of effects of an experimental cognitive enhancement operation. The journey is captivating and ultimately heartbreaking. Would highly recommend.
 
 ### Surely You're Joking, Mr. Feynman! by Richard Feynman
 
@@ -52,7 +52,7 @@ A thoroughly journalistic account of the Stuxnet worm. Tightly written and techn
 
 ### The Ministry of Utmost Happiness by Arundhati Roy
 
-A somewhat underwhelming comeback novel from Arundhati Roy after a gap of more than two decades. The sprawling plot line is unfolded mostly by telling and not by showing. And while Roy can effortlessly make the reader look where she wants, it's not entirely clear as to what she wants us to see. In the hands of a lesser writer, such faults would have spelt doom but in Roy more than redeems the novel with her masterful prose. However, the perspective in some places is confusing and politics are inserted into the narrative with all the subtlety of a sledgehammer. While it's no *God of Small Things*, it makes for a decent read.
+A somewhat underwhelming comeback novel from Arundhati Roy after a gap of more than two decades. The sprawling plot line is unfolded mostly by telling and not by showing. And while Roy can effortlessly make the reader look where she wants, it's not entirely clear as to what she wants us to see. In the hands of a lesser writer, such faults would have spelt doom but in Roy more than redeems the novel with her masterful prose. However, the perspective in some places is confusing and politics are inserted into the narrative with all the subtlety of a sledgehammer. While it's no *God of Small Things*, it makes for a decent read. Would recommend.
 
 ### Factfulness by  Hans Rosling, Ola Rosling and Anna Rosling Rönnlund
 
