@@ -6,9 +6,9 @@ tags = ['tech', 'linux', 'filesystem']
 
 +++
 
-The [`stat`](http://man7.org/linux/man-pages/man1/stat.1.html) utility can be used to retrieve the Unix file timestamps namely `atime`, `ctime` and `mtime`. Of these, the benefit of `mtime` which records the last time when the file was modified is immediately apparent. On the other hand, `atime` which records the last time the file was accessed has been called ["perhaps the most stupid Unix design idea of all times"](https://lore.kernel.org/lkml/20070804210351.GA9784@elte.hu/). Intuitively, one might expect `ctime` to record the creation time of a file. However, `ctime` records the last time when the metadata of a file was changed.
+The [`stat`](http://man7.org/linux/man-pages/man1/stat.1.html) utility can be used to retrieve the Unix file timestamps namely `atime`, `ctime` and `mtime`. Of these, the benefit of `mtime` which records the last time when the file was modified is immediately apparent. On the other hand, `atime`[^1] which records the last time the file was accessed has been called ["perhaps the most stupid Unix design idea of all times"](https://lore.kernel.org/lkml/20070804210351.GA9784@elte.hu/). Intuitively, one might expect `ctime` to record the creation time of a file. However, `ctime` records the last time when the metadata of a file was changed.
 
-Typically, Unices do not record file creation times. While some individual filesystems do record file creation times, until recently Linux lacked a common interface to actually expose them to userspace applications. As a result, the output of `stat` (GNU coreutils v8.30) on an ext4 filesystem (Which does record creation times) looks something like this:
+Typically, Unices do not record file creation times. While some individual filesystems do record file creation times[^2], until recently Linux lacked a common interface to actually expose them to userspace applications. As a result, the output of `stat` (GNU coreutils v8.30) on an ext4 filesystem (Which does record creation times) looks something like this:
 
 ```bash
 $ stat .
@@ -41,9 +41,7 @@ Modify: 2019-05-19 13:29:59.609167627 +0000
 Change: 2019-05-19 13:29:59.609167627 +0000
  Birth: 2019-05-19 13:13:50.100925514 +0000
 ```
- 
 
- 
+[^1]: The impact of `atime` on disk performance is mitigated by the use of [`relatime`](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/power_management_guide/relatime) on modern Linux systems.
 
-
-
+[^2]: For ext4, one can get the `crtime` of a file using the `stat` subcommand of the confusingly named [`debugfs`](https://linux.die.net/man/8/debugfs) utility.

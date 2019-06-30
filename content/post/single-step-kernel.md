@@ -116,7 +116,7 @@ qemu-system-x86_64 -nographic -kernel linux-4.20.6/arch/x86/boot/bzImage -hda ro
 
 This time the Kernel shouldn't panic and you should eventually see a login prompt. We could have setup a user while creating the filesystem but it's annoying to have to login each time we boot up the VM. Let's enable auto login as root instead.
 
-Terminate QEMU (`Ctrl-c`, `x`), mount the filesystem image again and then create the configuration folder structure:
+Terminate QEMU (`Ctrl-a`, `x`), mount the filesystem image again and then create the configuration folder structure:
 ``` bash
 sudo mount -o loop rootfs.img mnt/
 sudo mkdir -p mnt/etc/systemd/system/serial-getty@ttyS0.service.d
@@ -215,7 +215,7 @@ Set 'tap0' persistent and owned by uid 1000
 sudo ip link set tap0 up
 ```
 
-Now launch QEMU with a virtual `e1000` virtual interface connected the host's tap0 interface:
+Now launch QEMU with a virtual `e1000` interface connected the host's tap0 interface:
 
 ``` bash
 qemu-system-x86_64 -nographic -device e1000,netdev=net0 -netdev tap,id=net0,ifname=tap0 -kernel linux-4.20.6/arch/x86/boot/bzImage -hda rootfs.img -append "root=/dev/sda rw console=ttyS0" -s
