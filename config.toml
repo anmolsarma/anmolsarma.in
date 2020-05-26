@@ -2,7 +2,7 @@ baseurl = "https://www.anmolsarma.in/"
 title = "Anmol Sarma"
 languageCode = "en-in"
 DisqusShortname = "anmolsarma"
-Copyright = "Except where noted otherwise, content on this webiste is licensed under a <a href='https://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>."
+Copyright = "Except where noted otherwise, content on this webiste is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)."
 
 PygmentsCodeFences = true
 pygmentsstyle = "emacs"
