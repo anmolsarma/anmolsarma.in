@@ -9,6 +9,12 @@ pygmentsstyle = "emacs"
 theme = "mumo"
 Paginate = 1000
 
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
 [menu]
     [[menu.main]]
     identifier = "blog"
